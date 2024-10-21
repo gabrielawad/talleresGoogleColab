@@ -1,8 +1,8 @@
-## *«Para un colador no es un defecto tener agujeros.»*
+## *«Para un colador no es un defecto tener agujeros».*
 ### Proverbio árabe
 
-# *Talleres de Google Colab*
-Talleres de Google Colab para los cursos de programación, optimización y simulación.
+# *Fundamentos de Python*
+Talleres de fundamentos de Python en Google Colaboratory.
 
 Los datos para resolver los talleres se encuentran en la carpeta [**Archivo_datos**.](https://github.com/gabrielawad/talleresGoogleColab/tree/main/Archivo_datos)
 
