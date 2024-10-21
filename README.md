@@ -4,7 +4,7 @@
 # *Talleres de Google Colab*
 Talleres de Google Colab para los cursos de programación, optimización y simulación.
 
-Los datos para resolver los talleres se encuentran en la carpeta [**Archivo_datos**.](https://drive.google.com/drive/folders/1QfvE0DLXE5NQ3kJGEf0F7NZwUx8odv8N?usp=sharing)
+Los datos para resolver los talleres se encuentran en la carpeta [**Archivo_datos**.](https://github.com/gabrielawad/talleresGoogleColab/tree/main/Archivo_datos)
 
 Los notebooks de Google Colab se pueden abrir en Android. Siga las indicaciones de [How to run google colab on mobile](https://youtu.be/Exa6-foXqlg).
 
